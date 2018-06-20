@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Book The Device",
+    "version": "0.1.0",
+    "slug": "devices-keeper",
+    "sdkVersion": "27.0.0",
+    "ios": {
+      "bundleIdentifier": "com.fourth.deviceskeeper"
+    },
+    "android": {
+      "package": "com.fourth.deviceskeeper"
+    }
+  }
+}
